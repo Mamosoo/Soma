@@ -6,7 +6,6 @@ int a
 cin >> a;
 
 cout << a;
-
-printf("Use SourceTree");
 }
+
 
